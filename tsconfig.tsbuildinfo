@@ -171,56 +171,6 @@
         "signature": "aee9a9311eec1fb55353a2093cfb43af79194705604107113930facf1f018e2b",
         "affectsGlobalScope": false
       },
-      "./src/schedule/schedule.interface.ts": {
-        "version": "c4c654afd4e5d68588e33193e70dc3478037036e06e8654fb4cf8a6b91114372",
-        "signature": "b4ba9c8289790f8abb1e2c91275024107e4d87eae8d6d894662812db5f31eab7",
-        "affectsGlobalScope": false
-      },
-      "./src/customcommand/customcommand.type.ts": {
-        "version": "2b3aad4e20f41e660decbcc95ff47656cde3925a6a707e25ef3cdb2ab4d6c4cf",
-        "signature": "b8270966ab6c612fd02ad36fe11228980042b7373fc7651044db5570f7170268",
-        "affectsGlobalScope": false
-      },
-      "./src/customcommand/customcommand.interface.ts": {
-        "version": "3d12468d7a6f50a3541f8ecebc4e07aa958013ca647e0815c5ea3117b1389cd9",
-        "signature": "340aaa9364e844e8085840d6bcab7d042c24c6c7277797394fcf06ee91b5ed8a",
-        "affectsGlobalScope": false
-      },
-      "./src/customcommand/customcommand.ts": {
-        "version": "f9c7bdfbb920b43c57add63871c392e344f505417ca35875ca04b092eebe2dff",
-        "signature": "163354885c5c77572d5afa5e4cde96f1aec1e99dedfef2287258470af5bc6d41",
-        "affectsGlobalScope": false
-      },
-      "./src/customcommand/commands/archiver/archiver.ts": {
-        "version": "91c0c22b9bacc830835bc86a9821e82e3317388e99e27fdc1a4ea503e8d71238",
-        "signature": "e8c275833c678b4385063f67acda34a3466c9e219b5c91126846167127d7e79e",
-        "affectsGlobalScope": false
-      },
-      "./src/customcommand/commands/drive/drive.ts": {
-        "version": "242342660849b3bd7ff74516f755be382587806a27ae85c48af93c6a916e78fb",
-        "signature": "149109c2211758905c9532e362b89a23ceffc5eb1149e2348e081a3e2e016438",
-        "affectsGlobalScope": false
-      },
-      "./src/customcommand/commands/index.ts": {
-        "version": "530fe9692365b0a81af67c5b924fd9273e15b17ac372c46fd523f2cedebe9d2b",
-        "signature": "f761c91419d0a89422a0004ef1a92929dd4d2d5e5c16758654d8b0467d1998c6",
-        "affectsGlobalScope": false
-      },
-      "./src/command/command.ts": {
-        "version": "161da2520cc49422e3594a3f341f554b3e85ded79c133150e5432470008d48d4",
-        "signature": "48e0f896282093248f166bb1fd4402aad55454099287947ab39e8b768768fa62",
-        "affectsGlobalScope": false
-      },
-      "./src/schedule/schedule.ts": {
-        "version": "efca309524cc84f0df5664e9762b30c61b0fa71fffd8061b7e96081cc130ee12",
-        "signature": "5680f8a8e636dadc23d695ffab61c8bc1d327964d332ba75257e79629b7b3760",
-        "affectsGlobalScope": false
-      },
-      "./src/index.ts": {
-        "version": "87fb71aab8a6e5260690126c17380e1c2ced9b9ad6dee38aeef563835754de08",
-        "signature": "f761c91419d0a89422a0004ef1a92929dd4d2d5e5c16758654d8b0467d1998c6",
-        "affectsGlobalScope": false
-      },
       "./node_modules/@types/node/globals.d.ts": {
         "version": "215d8d9a2c480fd460127edc048d68d9931d3b27f95132253a6e71975f060bb1",
         "signature": "215d8d9a2c480fd460127edc048d68d9931d3b27f95132253a6e71975f060bb1",
@@ -470,6 +420,61 @@
         "version": "1290b9127bae7391a0a2ef732da845717eaeab990d6f53b3c092e64bdbe0b42b",
         "signature": "1290b9127bae7391a0a2ef732da845717eaeab990d6f53b3c092e64bdbe0b42b",
         "affectsGlobalScope": false
+      },
+      "./src/customcommand/commands/archiver/archiver.interface.ts": {
+        "version": "8fb425f413206ed283406b4bce29848b853c2226a2a0d100c6617ff98dfb4483",
+        "signature": "90a4398030bf91254d2297d578b6da24c87eefb0601771b13a932d56572d1562",
+        "affectsGlobalScope": false
+      },
+      "./src/schedule/schedule.interface.ts": {
+        "version": "963c621842ae465a1684ba00a122d56070ae838f5999903e16705a68392386b6",
+        "signature": "bd9c1e6c56439013828e423dc2ad97acad69633d3b6e78b4ab092076ae527152",
+        "affectsGlobalScope": false
+      },
+      "./src/customcommand/customcommand.type.ts": {
+        "version": "2b3aad4e20f41e660decbcc95ff47656cde3925a6a707e25ef3cdb2ab4d6c4cf",
+        "signature": "b8270966ab6c612fd02ad36fe11228980042b7373fc7651044db5570f7170268",
+        "affectsGlobalScope": false
+      },
+      "./src/customcommand/customcommand.interface.ts": {
+        "version": "3d12468d7a6f50a3541f8ecebc4e07aa958013ca647e0815c5ea3117b1389cd9",
+        "signature": "340aaa9364e844e8085840d6bcab7d042c24c6c7277797394fcf06ee91b5ed8a",
+        "affectsGlobalScope": false
+      },
+      "./src/customcommand/customcommand.ts": {
+        "version": "f9c7bdfbb920b43c57add63871c392e344f505417ca35875ca04b092eebe2dff",
+        "signature": "163354885c5c77572d5afa5e4cde96f1aec1e99dedfef2287258470af5bc6d41",
+        "affectsGlobalScope": false
+      },
+      "./src/customcommand/commands/archiver/archiver.ts": {
+        "version": "cc315fc34021bb5460d059e0ffa18fd04dae38f7fe2d78dd74734ccea59a973b",
+        "signature": "cd21d39bbf6d84cf21da88d9bc9d81cb0198db273191dc6050fc8b3f8195d5fb",
+        "affectsGlobalScope": false
+      },
+      "./src/customcommand/commands/drive/drive.ts": {
+        "version": "242342660849b3bd7ff74516f755be382587806a27ae85c48af93c6a916e78fb",
+        "signature": "149109c2211758905c9532e362b89a23ceffc5eb1149e2348e081a3e2e016438",
+        "affectsGlobalScope": false
+      },
+      "./src/customcommand/commands/index.ts": {
+        "version": "530fe9692365b0a81af67c5b924fd9273e15b17ac372c46fd523f2cedebe9d2b",
+        "signature": "f761c91419d0a89422a0004ef1a92929dd4d2d5e5c16758654d8b0467d1998c6",
+        "affectsGlobalScope": false
+      },
+      "./src/command/command.ts": {
+        "version": "161da2520cc49422e3594a3f341f554b3e85ded79c133150e5432470008d48d4",
+        "signature": "48e0f896282093248f166bb1fd4402aad55454099287947ab39e8b768768fa62",
+        "affectsGlobalScope": false
+      },
+      "./src/schedule/schedule.ts": {
+        "version": "efca309524cc84f0df5664e9762b30c61b0fa71fffd8061b7e96081cc130ee12",
+        "signature": "5680f8a8e636dadc23d695ffab61c8bc1d327964d332ba75257e79629b7b3760",
+        "affectsGlobalScope": false
+      },
+      "./src/index.ts": {
+        "version": "c5cd1741b146bb6b46ec835a3ab93152dec58393a9efdbab3aa7b759023443bb",
+        "signature": "f761c91419d0a89422a0004ef1a92929dd4d2d5e5c16758654d8b0467d1998c6",
+        "affectsGlobalScope": false
       }
     },
     "options": {
@@ -679,7 +684,13 @@
         "./src/customcommand/customcommand.ts",
         "./src/schedule/schedule.interface.ts"
       ],
+      "./src/customcommand/commands/archiver/archiver.interface.ts": [
+        "./node_modules/@types/archiver/index.d.ts"
+      ],
       "./src/customcommand/commands/archiver/archiver.ts": [
+        "./node_modules/@types/archiver/index.d.ts",
+        "./node_modules/@types/node/fs.d.ts",
+        "./src/customcommand/commands/archiver/archiver.interface.ts",
         "./src/customcommand/customcommand.interface.ts",
         "./src/customcommand/customcommand.type.ts"
       ],
@@ -701,6 +712,9 @@
       ],
       "./src/index.ts": [
         "./src/schedule/schedule.ts"
+      ],
+      "./src/schedule/schedule.interface.ts": [
+        "./src/customcommand/commands/archiver/archiver.interface.ts"
       ],
       "./src/schedule/schedule.ts": [
         "./node_modules/@types/node-cron/index.d.ts",
@@ -897,7 +911,11 @@
         "./src/customcommand/commands/index.ts",
         "./src/schedule/schedule.interface.ts"
       ],
+      "./src/customcommand/commands/archiver/archiver.interface.ts": [
+        "./node_modules/@types/archiver/index.d.ts"
+      ],
       "./src/customcommand/commands/archiver/archiver.ts": [
+        "./src/customcommand/commands/archiver/archiver.interface.ts",
         "./src/customcommand/customcommand.interface.ts",
         "./src/customcommand/customcommand.type.ts"
       ],
@@ -911,6 +929,9 @@
       "./src/customcommand/customcommand.ts": [
         "./src/customcommand/customcommand.interface.ts",
         "./src/schedule/schedule.interface.ts"
+      ],
+      "./src/schedule/schedule.interface.ts": [
+        "./src/customcommand/commands/archiver/archiver.interface.ts"
       ],
       "./src/schedule/schedule.ts": [
         "./src/schedule/schedule.interface.ts"
@@ -1002,6 +1023,7 @@
       "./node_modules/typescript/lib/lib.scripthost.d.ts",
       "./node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
       "./src/command/command.ts",
+      "./src/customcommand/commands/archiver/archiver.interface.ts",
       "./src/customcommand/commands/archiver/archiver.ts",
       "./src/customcommand/commands/drive/drive.ts",
       "./src/customcommand/commands/index.ts",
