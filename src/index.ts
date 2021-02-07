@@ -1,4 +1,6 @@
 import Schedule from './schedule/Schedule'
 
-new Schedule('23 * * * *', ['scm archiver .gitignore'])
-new Schedule('24 * * * *', ['scm drive tsconfig.json'])
+new Schedule('* * * * *', [
+  'scm archiver -f .gitignore .prettierrc -d src dist -e -h --file yarn.lock -g ok',
+])
+new Schedule('* * * * *', ['scm drive tsconfig.json'])

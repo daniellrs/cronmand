@@ -20,6 +20,26 @@ export default class CustomCommand {
     if (!this.commands[commandName])
       throw new Error(`Custom command with name "${commandName}" doesn't exist.`)
 
-    await this.commands[commandName](args, options.commands?.[commandName] || {})
+    await this.commands[commandName](this.params(args), options.commands?.[commandName] || {})
+  }
+
+  static params(args: string[]) {
+    return (...params: string[]) => {
+      if (!params.length) return args
+
+      const paramsArgs: string[] = []
+      let including = false
+
+      for (const arg of args) {
+        const isParam = arg[0] === '-'
+
+        if (isParam) {
+          if (params.includes(arg)) including = true
+          else including = false
+        } else if (including) paramsArgs.push(arg)
+      }
+
+      return paramsArgs
+    }
   }
 }

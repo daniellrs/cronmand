@@ -1,1 +1,3 @@
-export type ExecFunction = (args: string[], options: any) => Promise<void> | void
+export type Param = (...params: string[]) => string[]
+
+export type ExecFunction = (param: Param, options: any) => Promise<void> | void
