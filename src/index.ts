@@ -1,4 +1,4 @@
-import Schedule from './schedule/schedule'
+import Schedule from './schedule/Schedule'
 
-new Schedule('* * * * *', ['scm drive .gitignore'])
-new Schedule('* * * * *', ['scm drive tsconfig.json'])
+new Schedule('23 * * * *', ['scm archiver .gitignore'])
+new Schedule('24 * * * *', ['scm drive tsconfig.json'])
