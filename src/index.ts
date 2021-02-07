@@ -1,4 +1,7 @@
 import Schedule from './schedule/Schedule'
 
-new Schedule('* * * * *', ['dir', 'scm archiver -f .gitignore', 'dir'])
-// new Schedule('* * * * *', ['dir', 'scm drive tsconfig.json'])
+// new Schedule('* * * * *', [
+//   'scm archiver -f .gitignore package.json -d ./dist',
+//   'echo archiver done',
+// ])
+new Schedule('* * * * *', ['scm drive -f .gitignore output.zip tsconfig.json'])

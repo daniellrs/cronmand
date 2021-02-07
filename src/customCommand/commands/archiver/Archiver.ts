@@ -11,7 +11,7 @@ export default class Archiver implements Command {
     return new Promise((resolve, reject) => {
       const format = param('--format')[0] || options.format || 'zip'
       const output = param('-o', '--output')[0] || options.output || `./output.${format}`
-      const files = param('-f', '--file') || options.file
+      const file = param('-f', '--file') || options.file
       const directory = param('-d', '--directory') || options.directory
 
       const archive = archiver(format as archiver.Format)
@@ -34,7 +34,7 @@ export default class Archiver implements Command {
 
       archive.pipe(writeStream)
 
-      files.forEach(f => archive.file(f, { name: '' }))
+      file.forEach(f => archive.file(f, { name: '' }))
       directory.forEach(d => archive.directory(d, false))
 
       archive.finalize()
