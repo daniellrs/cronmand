@@ -5,11 +5,12 @@ import mime from 'mime-types'
 import { google } from 'googleapis'
 import { Command } from '../../CustomCommand.interface'
 import { Param } from '../../CustomCommand.type'
+import { DriveOptions } from './Drive.interface'
 
 export default class Drive implements Command {
   name = 'drive'
 
-  exec(param: Param, options: any): Promise<void> {
+  exec(param: Param, options: DriveOptions): Promise<void> {
     return new Promise((resolve, reject) => {
       const scope = param('-s', '--scope').length
         ? param('-s', '--scope')
