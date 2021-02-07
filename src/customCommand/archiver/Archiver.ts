@@ -1,7 +1,7 @@
 import fs from 'fs'
 import archiver from 'archiver'
-import { Command } from '../../CustomCommand.interface'
-import { Param } from '../../CustomCommand.type'
+import { Command } from '../CustomCommand.interface'
+import { Param } from '../CustomCommand.type'
 import { ArchiverOptions } from './Archiver.interface'
 
 export default class Archiver implements Command {
@@ -34,8 +34,15 @@ export default class Archiver implements Command {
 
       archive.pipe(writeStream)
 
-      file.forEach(f => archive.file(f, { name: '' }))
-      directory.forEach(d => archive.directory(d, false))
+      file.forEach(f => {
+        const [filePath, fileName = ''] = f.split(':')
+        archive.file(filePath, { name: fileName })
+      })
+
+      directory.forEach(d => {
+        const [directoryPath, directoryName = false] = d.split(':')
+        archive.directory(directoryPath, directoryName)
+      })
 
       archive.finalize()
     })

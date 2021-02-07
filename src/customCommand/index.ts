@@ -1,4 +1,4 @@
-import CustomCommand from '../CustomCommand'
+import CustomCommand from './CustomCommand'
 import Archiver from './archiver/Archiver'
 import Drive from './drive/Drive'
 

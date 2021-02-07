@@ -421,23 +421,23 @@
         "signature": "1290b9127bae7391a0a2ef732da845717eaeab990d6f53b3c092e64bdbe0b42b",
         "affectsGlobalScope": false
       },
-      "./src/customcommand/commands/archiver/archiver.interface.ts": {
+      "./src/customcommand/archiver/archiver.interface.ts": {
         "version": "8fb425f413206ed283406b4bce29848b853c2226a2a0d100c6617ff98dfb4483",
         "signature": "90a4398030bf91254d2297d578b6da24c87eefb0601771b13a932d56572d1562",
         "affectsGlobalScope": false
       },
-      "./src/customcommand/commands/drive/drive.interface.ts": {
-        "version": "077f34f0ef3cd24dc30442f4dea3df7e712ab383d12ff76bc44e19eeddea93d7",
-        "signature": "c2e2c4c803136cf7d7100f122871fdd68ac458f1a3c435be258f15692bfd8985",
+      "./src/customcommand/drive/drive.interface.ts": {
+        "version": "a32d46145132617990c3bab69359a18d99ce158ed470f18d593c57512e2863f0",
+        "signature": "db07b621d9e57fcdd61523b9a9a39cc6548b32d1d01a1703ed6d314f812fbbf1",
         "affectsGlobalScope": false
       },
       "./src/schedule/schedule.interface.ts": {
-        "version": "147ad4ebb4417ef0dc856fd7266040d96f07fca447add1b89a3f24562a8c2e57",
-        "signature": "4c5260b5b44f16544e0c95f67bfceb4eff17988e9b72ee3173c072beccfe1e79",
+        "version": "61190a482340cde121359bfc174d0481c8cbf5e6b620d2668cf2bf63fbb3d0fd",
+        "signature": "36ffedbb7d87d90a31501f19152e340efcfe98ba32f30e824ff53b90c2ef833d",
         "affectsGlobalScope": false
       },
       "./src/customcommand/customcommand.type.ts": {
-        "version": "2b3aad4e20f41e660decbcc95ff47656cde3925a6a707e25ef3cdb2ab4d6c4cf",
+        "version": "230018a250e36ff9cdf93c1eb88eb911d853cc465663ad9a1de5675f3e39cc23",
         "signature": "b8270966ab6c612fd02ad36fe11228980042b7373fc7651044db5570f7170268",
         "affectsGlobalScope": false
       },
@@ -451,9 +451,9 @@
         "signature": "163354885c5c77572d5afa5e4cde96f1aec1e99dedfef2287258470af5bc6d41",
         "affectsGlobalScope": false
       },
-      "./src/customcommand/commands/archiver/archiver.ts": {
-        "version": "65ebf2a74ed89e6d215ac57de6b3a01b7c7a4e20bec991672fb35e12f1355744",
-        "signature": "cd21d39bbf6d84cf21da88d9bc9d81cb0198db273191dc6050fc8b3f8195d5fb",
+      "./src/customcommand/archiver/archiver.ts": {
+        "version": "70a55a984f93658733a91ccb7fabf9385dd6668b0e1b122bf4ad7923d5c0d045",
+        "signature": "9bea1e08a98f177a25c7bfffbf690f515020a7912167003ba36e1dc431b94e85",
         "affectsGlobalScope": false
       },
       "./node_modules/@types/mime-types/index.d.ts": {
@@ -3196,19 +3196,19 @@
         "signature": "d50fccf8b5ca63f4cd14bef901d0f9fa57298b3bf264b9510d853cd5dd2f7fef",
         "affectsGlobalScope": false
       },
-      "./src/customcommand/commands/drive/drive.ts": {
-        "version": "dc29ec3d149e2c25d3fae673d89ca5e0132718c297b40bec4f8036a062a5ecb6",
-        "signature": "5ca357788205e26a069ff5843ec489cd322bee8b48d9c0d0edbeb544e5f12b6b",
+      "./src/customcommand/drive/drive.ts": {
+        "version": "731ab8071e3848c6be113a56bc473c9a54c72c3f1d8906474c6417adbdd04616",
+        "signature": "5415107c3c143fe3f5333a5608b299e42d6ff86d9c3362e9ca653750ea93693f",
         "affectsGlobalScope": false
       },
-      "./src/customcommand/commands/index.ts": {
-        "version": "530fe9692365b0a81af67c5b924fd9273e15b17ac372c46fd523f2cedebe9d2b",
+      "./src/customcommand/index.ts": {
+        "version": "7dfb349ea2c80e9fffd8f76cff739e02439d2989a705abb3f187da8597e997d4",
         "signature": "f761c91419d0a89422a0004ef1a92929dd4d2d5e5c16758654d8b0467d1998c6",
         "affectsGlobalScope": false
       },
       "./src/command/command.ts": {
-        "version": "84aee034c12c3792f08eb80a31790313cefee4366a4d299cab7e1990011123b5",
-        "signature": "48e0f896282093248f166bb1fd4402aad55454099287947ab39e8b768768fa62",
+        "version": "675ab2ea91c7294e7dc94abfdb44a20c93028345717e6f9cf5bad2804f82f498",
+        "signature": "48d54511f03d5f86d782f04521eb5b9a5877c2ae74452ff4ba9a8a949e34a678",
         "affectsGlobalScope": false
       },
       "./src/schedule/schedule.ts": {
@@ -3217,7 +3217,7 @@
         "affectsGlobalScope": false
       },
       "./src/index.ts": {
-        "version": "83955e198bbe23853db3a9c02f9fb3af133538d1a88277254b1ebe8eebe5fc72",
+        "version": "dcdf8e31dffd9b337ccea799577a954d62023fc9a2a36ce685fc35e34fd0472e",
         "signature": "f761c91419d0a89422a0004ef1a92929dd4d2d5e5c16758654d8b0467d1998c6",
         "affectsGlobalScope": false
       }
@@ -6570,34 +6570,19 @@
       ],
       "./src/command/command.ts": [
         "./node_modules/@types/node/child_process.d.ts",
-        "./src/customcommand/commands/index.ts",
         "./src/customcommand/customcommand.ts",
+        "./src/customcommand/index.ts",
         "./src/schedule/schedule.interface.ts"
       ],
-      "./src/customcommand/commands/archiver/archiver.interface.ts": [
+      "./src/customcommand/archiver/archiver.interface.ts": [
         "./node_modules/@types/archiver/index.d.ts"
       ],
-      "./src/customcommand/commands/archiver/archiver.ts": [
+      "./src/customcommand/archiver/archiver.ts": [
         "./node_modules/@types/archiver/index.d.ts",
         "./node_modules/@types/node/fs.d.ts",
-        "./src/customcommand/commands/archiver/archiver.interface.ts",
+        "./src/customcommand/archiver/archiver.interface.ts",
         "./src/customcommand/customcommand.interface.ts",
         "./src/customcommand/customcommand.type.ts"
-      ],
-      "./src/customcommand/commands/drive/drive.ts": [
-        "./node_modules/@types/mime-types/index.d.ts",
-        "./node_modules/@types/node/fs.d.ts",
-        "./node_modules/@types/node/path.d.ts",
-        "./node_modules/@types/node/readline.d.ts",
-        "./node_modules/googleapis/build/src/index.d.ts",
-        "./src/customcommand/commands/drive/drive.interface.ts",
-        "./src/customcommand/customcommand.interface.ts",
-        "./src/customcommand/customcommand.type.ts"
-      ],
-      "./src/customcommand/commands/index.ts": [
-        "./src/customcommand/commands/archiver/archiver.ts",
-        "./src/customcommand/commands/drive/drive.ts",
-        "./src/customcommand/customcommand.ts"
       ],
       "./src/customcommand/customcommand.interface.ts": [
         "./src/customcommand/customcommand.type.ts"
@@ -6606,12 +6591,27 @@
         "./src/customcommand/customcommand.interface.ts",
         "./src/schedule/schedule.interface.ts"
       ],
+      "./src/customcommand/drive/drive.ts": [
+        "./node_modules/@types/mime-types/index.d.ts",
+        "./node_modules/@types/node/fs.d.ts",
+        "./node_modules/@types/node/path.d.ts",
+        "./node_modules/@types/node/readline.d.ts",
+        "./node_modules/googleapis/build/src/index.d.ts",
+        "./src/customcommand/customcommand.interface.ts",
+        "./src/customcommand/customcommand.type.ts",
+        "./src/customcommand/drive/drive.interface.ts"
+      ],
+      "./src/customcommand/index.ts": [
+        "./src/customcommand/archiver/archiver.ts",
+        "./src/customcommand/customcommand.ts",
+        "./src/customcommand/drive/drive.ts"
+      ],
       "./src/index.ts": [
         "./src/schedule/schedule.ts"
       ],
       "./src/schedule/schedule.interface.ts": [
-        "./src/customcommand/commands/archiver/archiver.interface.ts",
-        "./src/customcommand/commands/drive/drive.interface.ts"
+        "./src/customcommand/archiver/archiver.interface.ts",
+        "./src/customcommand/drive/drive.interface.ts"
       ],
       "./src/schedule/schedule.ts": [
         "./node_modules/@types/node-cron/index.d.ts",
@@ -9950,19 +9950,14 @@
         "./node_modules/googleapis/build/src/googleapis.d.ts"
       ],
       "./src/command/command.ts": [
-        "./src/customcommand/commands/index.ts",
+        "./src/customcommand/index.ts",
         "./src/schedule/schedule.interface.ts"
       ],
-      "./src/customcommand/commands/archiver/archiver.interface.ts": [
+      "./src/customcommand/archiver/archiver.interface.ts": [
         "./node_modules/@types/archiver/index.d.ts"
       ],
-      "./src/customcommand/commands/archiver/archiver.ts": [
-        "./src/customcommand/commands/archiver/archiver.interface.ts",
-        "./src/customcommand/customcommand.interface.ts",
-        "./src/customcommand/customcommand.type.ts"
-      ],
-      "./src/customcommand/commands/drive/drive.ts": [
-        "./src/customcommand/commands/drive/drive.interface.ts",
+      "./src/customcommand/archiver/archiver.ts": [
+        "./src/customcommand/archiver/archiver.interface.ts",
         "./src/customcommand/customcommand.interface.ts",
         "./src/customcommand/customcommand.type.ts"
       ],
@@ -9973,9 +9968,14 @@
         "./src/customcommand/customcommand.interface.ts",
         "./src/schedule/schedule.interface.ts"
       ],
+      "./src/customcommand/drive/drive.ts": [
+        "./src/customcommand/customcommand.interface.ts",
+        "./src/customcommand/customcommand.type.ts",
+        "./src/customcommand/drive/drive.interface.ts"
+      ],
       "./src/schedule/schedule.interface.ts": [
-        "./src/customcommand/commands/archiver/archiver.interface.ts",
-        "./src/customcommand/commands/drive/drive.interface.ts"
+        "./src/customcommand/archiver/archiver.interface.ts",
+        "./src/customcommand/drive/drive.interface.ts"
       ],
       "./src/schedule/schedule.ts": [
         "./src/schedule/schedule.interface.ts"
@@ -10615,14 +10615,14 @@
       "./node_modules/typescript/lib/lib.scripthost.d.ts",
       "./node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
       "./src/command/command.ts",
-      "./src/customcommand/commands/archiver/archiver.interface.ts",
-      "./src/customcommand/commands/archiver/archiver.ts",
-      "./src/customcommand/commands/drive/drive.interface.ts",
-      "./src/customcommand/commands/drive/drive.ts",
-      "./src/customcommand/commands/index.ts",
+      "./src/customcommand/archiver/archiver.interface.ts",
+      "./src/customcommand/archiver/archiver.ts",
       "./src/customcommand/customcommand.interface.ts",
       "./src/customcommand/customcommand.ts",
       "./src/customcommand/customcommand.type.ts",
+      "./src/customcommand/drive/drive.interface.ts",
+      "./src/customcommand/drive/drive.ts",
+      "./src/customcommand/index.ts",
       "./src/index.ts",
       "./src/schedule/schedule.interface.ts",
       "./src/schedule/schedule.ts"

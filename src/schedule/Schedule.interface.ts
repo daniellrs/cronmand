@@ -1,5 +1,5 @@
-import { ArchiverOptions } from '../customCommand/commands/archiver/Archiver.interface'
-import { DriveOptions } from '../customCommand/commands/drive/Drive.interface'
+import { ArchiverOptions } from '../customCommand/archiver/Archiver.interface'
+import { DriveOptions } from '../customCommand/drive/Drive.interface'
 
 export interface Options {
   mail?: boolean

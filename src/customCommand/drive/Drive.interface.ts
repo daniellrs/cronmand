@@ -3,4 +3,5 @@ export interface DriveOptions {
   tokenPath: string
   credentialsPath: string
   file: string[]
+  directory: string
 }
