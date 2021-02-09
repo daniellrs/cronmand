@@ -20,8 +20,6 @@ export default class Command {
           reject(error)
           throw error
         }
-
-        console.log(stdout, stderr)
         resolve()
       })
     })

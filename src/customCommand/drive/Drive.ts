@@ -58,6 +58,7 @@ export default class Drive implements Command {
             reject(err)
             throw err
           }
+
           resolve()
         }
       )
@@ -82,7 +83,9 @@ export default class Drive implements Command {
           if (err) {
             reject(err)
             throw err
-          } else resolve(res.data.files?.[0]?.id)
+          }
+
+          resolve(res.data.files?.[0]?.id)
         }
       )
     })
@@ -101,7 +104,9 @@ export default class Drive implements Command {
           if (err) {
             reject(err)
             throw err
-          } else resolve(file.data.id)
+          }
+
+          resolve(file.data.id)
         }
       )
     })

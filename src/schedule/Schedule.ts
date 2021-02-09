@@ -5,8 +5,20 @@ import Command from '../command/Command'
 export default class Schedule {
   constructor(cronExpression: string, commands: string[], options: Options = {}) {
     cron.schedule(cronExpression, async () => {
-      for (const command of commands) {
-        await Command.exec(command, options)
+      const resume: any = {}
+
+      try {
+        for (const command of commands) {
+          try {
+            await Command.exec(command, options)
+            resume[command] = 1
+          } catch (error) {
+            resume[command] = error
+            throw error
+          }
+        }
+      } finally {
+        if (options.sendMailOnFinish) options.mailer?.sendMail({ text: JSON.stringify(resume) })
       }
     })
   }

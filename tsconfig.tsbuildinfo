@@ -1,174 +1,164 @@
 {
   "program": {
     "fileInfos": {
-      "./node_modules/typescript/lib/lib.es5.d.ts": {
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es5.d.ts": {
         "version": "9622e8bd7cc72a7dab819a8011ecbf81d443638082e5cb99ecf2e75ff56ffc9d",
         "signature": "9622e8bd7cc72a7dab819a8011ecbf81d443638082e5cb99ecf2e75ff56ffc9d",
         "affectsGlobalScope": true
       },
-      "./node_modules/typescript/lib/lib.es2015.d.ts": {
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2015.d.ts": {
         "version": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
         "signature": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
         "affectsGlobalScope": false
       },
-      "./node_modules/typescript/lib/lib.es2016.d.ts": {
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2016.d.ts": {
         "version": "7a387c58583dfca701b6c85e0adaf43fb17d590fb16d5b2dc0a2fbd89f35c467",
         "signature": "7a387c58583dfca701b6c85e0adaf43fb17d590fb16d5b2dc0a2fbd89f35c467",
         "affectsGlobalScope": false
       },
-      "./node_modules/typescript/lib/lib.es2017.d.ts": {
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2017.d.ts": {
         "version": "8a12173c586e95f4433e0c6dc446bc88346be73ffe9ca6eec7aa63c8f3dca7f9",
         "signature": "8a12173c586e95f4433e0c6dc446bc88346be73ffe9ca6eec7aa63c8f3dca7f9",
         "affectsGlobalScope": false
       },
-      "./node_modules/typescript/lib/lib.es2018.d.ts": {
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2018.d.ts": {
         "version": "5f4e733ced4e129482ae2186aae29fde948ab7182844c3a5a51dd346182c7b06",
         "signature": "5f4e733ced4e129482ae2186aae29fde948ab7182844c3a5a51dd346182c7b06",
         "affectsGlobalScope": false
       },
-      "./node_modules/typescript/lib/lib.dom.d.ts": {
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.dom.d.ts": {
         "version": "abadddbf660adeec27e9a56584907d52fa1d6e1e1dc49f639a921baa951b7a84",
         "signature": "abadddbf660adeec27e9a56584907d52fa1d6e1e1dc49f639a921baa951b7a84",
         "affectsGlobalScope": true
       },
-      "./node_modules/typescript/lib/lib.dom.iterable.d.ts": {
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.dom.iterable.d.ts": {
         "version": "d42f4141bd9ce82b4e2902f26acb00c183e321be19a38bbc0e76a922c1724c94",
         "signature": "d42f4141bd9ce82b4e2902f26acb00c183e321be19a38bbc0e76a922c1724c94",
         "affectsGlobalScope": true
       },
-      "./node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
         "version": "7fac8cb5fc820bc2a59ae11ef1c5b38d3832c6d0dfaec5acdb5569137d09a481",
         "signature": "7fac8cb5fc820bc2a59ae11ef1c5b38d3832c6d0dfaec5acdb5569137d09a481",
         "affectsGlobalScope": true
       },
-      "./node_modules/typescript/lib/lib.scripthost.d.ts": {
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.scripthost.d.ts": {
         "version": "097a57355ded99c68e6df1b738990448e0bf170e606707df5a7c0481ff2427cd",
         "signature": "097a57355ded99c68e6df1b738990448e0bf170e606707df5a7c0481ff2427cd",
         "affectsGlobalScope": true
       },
-      "./node_modules/typescript/lib/lib.es2015.core.d.ts": {
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2015.core.d.ts": {
         "version": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
         "signature": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
         "affectsGlobalScope": true
       },
-      "./node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
         "version": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
         "signature": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
         "affectsGlobalScope": true
       },
-      "./node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
         "version": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
         "signature": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
         "affectsGlobalScope": true
       },
-      "./node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
         "version": "8b2a5df1ce95f78f6b74f1a555ccdb6baab0486b42d8345e0871dd82811f9b9a",
         "signature": "8b2a5df1ce95f78f6b74f1a555ccdb6baab0486b42d8345e0871dd82811f9b9a",
         "affectsGlobalScope": true
       },
-      "./node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
         "version": "2bb4b3927299434052b37851a47bf5c39764f2ba88a888a107b32262e9292b7c",
         "signature": "2bb4b3927299434052b37851a47bf5c39764f2ba88a888a107b32262e9292b7c",
         "affectsGlobalScope": true
       },
-      "./node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
         "version": "7207e317a2cb07a177e7d963ab7b8c0e85dde7f9ddb50351f830239bf597569e",
         "signature": "7207e317a2cb07a177e7d963ab7b8c0e85dde7f9ddb50351f830239bf597569e",
         "affectsGlobalScope": true
       },
-      "./node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
         "version": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
         "signature": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
         "affectsGlobalScope": true
       },
-      "./node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
         "version": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
         "signature": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
         "affectsGlobalScope": true
       },
-      "./node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
         "version": "9d122b7e8c1a5c72506eea50c0973cba55b92b5532d5cafa8a6ce2c547d57551",
         "signature": "9d122b7e8c1a5c72506eea50c0973cba55b92b5532d5cafa8a6ce2c547d57551",
         "affectsGlobalScope": true
       },
-      "./node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
         "version": "3be5a1453daa63e031d266bf342f3943603873d890ab8b9ada95e22389389006",
         "signature": "3be5a1453daa63e031d266bf342f3943603873d890ab8b9ada95e22389389006",
         "affectsGlobalScope": true
       },
-      "./node_modules/typescript/lib/lib.es2017.object.d.ts": {
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2017.object.d.ts": {
         "version": "17bb1fc99591b00515502d264fa55dc8370c45c5298f4a5c2083557dccba5a2a",
         "signature": "17bb1fc99591b00515502d264fa55dc8370c45c5298f4a5c2083557dccba5a2a",
         "affectsGlobalScope": true
       },
-      "./node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
         "version": "7ce9f0bde3307ca1f944119f6365f2d776d281a393b576a18a2f2893a2d75c98",
         "signature": "7ce9f0bde3307ca1f944119f6365f2d776d281a393b576a18a2f2893a2d75c98",
         "affectsGlobalScope": true
       },
-      "./node_modules/typescript/lib/lib.es2017.string.d.ts": {
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2017.string.d.ts": {
         "version": "6a6b173e739a6a99629a8594bfb294cc7329bfb7b227f12e1f7c11bc163b8577",
         "signature": "6a6b173e739a6a99629a8594bfb294cc7329bfb7b227f12e1f7c11bc163b8577",
         "affectsGlobalScope": true
       },
-      "./node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2017.intl.d.ts": {
         "version": "12a310447c5d23c7d0d5ca2af606e3bd08afda69100166730ab92c62999ebb9d",
         "signature": "12a310447c5d23c7d0d5ca2af606e3bd08afda69100166730ab92c62999ebb9d",
         "affectsGlobalScope": true
       },
-      "./node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
         "version": "b0124885ef82641903d232172577f2ceb5d3e60aed4da1153bab4221e1f6dd4e",
         "signature": "b0124885ef82641903d232172577f2ceb5d3e60aed4da1153bab4221e1f6dd4e",
         "affectsGlobalScope": true
       },
-      "./node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts": {
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts": {
         "version": "0eb85d6c590b0d577919a79e0084fa1744c1beba6fd0d4e951432fa1ede5510a",
         "signature": "0eb85d6c590b0d577919a79e0084fa1744c1beba6fd0d4e951432fa1ede5510a",
         "affectsGlobalScope": true
       },
-      "./node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": {
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": {
         "version": "a40c4d82bf13fcded295ac29f354eb7d40249613c15e07b53f2fc75e45e16359",
         "signature": "a40c4d82bf13fcded295ac29f354eb7d40249613c15e07b53f2fc75e45e16359",
         "affectsGlobalScope": true
       },
-      "./node_modules/typescript/lib/lib.es2018.intl.d.ts": {
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2018.intl.d.ts": {
         "version": "df9c8a72ca8b0ed62f5470b41208a0587f0f73f0a7db28e5a1272cf92537518e",
         "signature": "df9c8a72ca8b0ed62f5470b41208a0587f0f73f0a7db28e5a1272cf92537518e",
         "affectsGlobalScope": true
       },
-      "./node_modules/typescript/lib/lib.es2018.promise.d.ts": {
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2018.promise.d.ts": {
         "version": "bb2d3fb05a1d2ffbca947cc7cbc95d23e1d053d6595391bd325deb265a18d36c",
         "signature": "bb2d3fb05a1d2ffbca947cc7cbc95d23e1d053d6595391bd325deb265a18d36c",
         "affectsGlobalScope": true
       },
-      "./node_modules/typescript/lib/lib.es2018.regexp.d.ts": {
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2018.regexp.d.ts": {
         "version": "c80df75850fea5caa2afe43b9949338ce4e2de086f91713e9af1a06f973872b8",
         "signature": "c80df75850fea5caa2afe43b9949338ce4e2de086f91713e9af1a06f973872b8",
         "affectsGlobalScope": true
       },
-      "./node_modules/typescript/lib/lib.es2020.bigint.d.ts": {
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2020.bigint.d.ts": {
         "version": "7b5a10e3c897fabece5a51aa85b4111727d7adb53c2734b5d37230ff96802a09",
         "signature": "7b5a10e3c897fabece5a51aa85b4111727d7adb53c2734b5d37230ff96802a09",
         "affectsGlobalScope": true
       },
-      "./node_modules/typescript/lib/lib.esnext.intl.d.ts": {
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.esnext.intl.d.ts": {
         "version": "89bf2b7a601b73ea4311eda9c41f86a58994fec1bee3b87c4a14d68d9adcdcbd",
         "signature": "89bf2b7a601b73ea4311eda9c41f86a58994fec1bee3b87c4a14d68d9adcdcbd",
         "affectsGlobalScope": true
       },
-      "./node_modules/typescript/lib/lib.es2017.full.d.ts": {
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2017.full.d.ts": {
         "version": "d2f31f19e1ba6ed59be9259d660a239d9a3fcbbc8e038c6b2009bde34b175fed",
         "signature": "d2f31f19e1ba6ed59be9259d660a239d9a3fcbbc8e038c6b2009bde34b175fed",
-        "affectsGlobalScope": false
-      },
-      "./node_modules/@types/tz-offset/index.d.ts": {
-        "version": "28c13471fcff5beff8580d482986b392a3abfde5553b58e68bcdb05cb8bc7a20",
-        "signature": "28c13471fcff5beff8580d482986b392a3abfde5553b58e68bcdb05cb8bc7a20",
-        "affectsGlobalScope": false
-      },
-      "./node_modules/@types/node-cron/index.d.ts": {
-        "version": "aee9a9311eec1fb55353a2093cfb43af79194705604107113930facf1f018e2b",
-        "signature": "aee9a9311eec1fb55353a2093cfb43af79194705604107113930facf1f018e2b",
         "affectsGlobalScope": false
       },
       "./node_modules/@types/node/globals.d.ts": {
@@ -406,6 +396,96 @@
         "signature": "744e6430bafc6f39f66c4fc1e6a0d8c9551260ffd1782aa7e3f5166ac6aa1f86",
         "affectsGlobalScope": false
       },
+      "./node_modules/@types/nodemailer/lib/dkim/index.d.ts": {
+        "version": "971b6006a4610efd734e051f5d1421f87bc0c73bfc3cd205819236d497cba1e4",
+        "signature": "971b6006a4610efd734e051f5d1421f87bc0c73bfc3cd205819236d497cba1e4",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/nodemailer/lib/mailer/mail-message.d.ts": {
+        "version": "d9be0e7047e30df44cafac456f18dd3f43af529225ad747c7330e835da6b370c",
+        "signature": "d9be0e7047e30df44cafac456f18dd3f43af529225ad747c7330e835da6b370c",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/nodemailer/lib/xoauth2.d.ts": {
+        "version": "a9d32ef46fa1075bfeff4a4ab96c1331254558865ca9c7bf383712baa297f065",
+        "signature": "a9d32ef46fa1075bfeff4a4ab96c1331254558865ca9c7bf383712baa297f065",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/nodemailer/lib/mailer/index.d.ts": {
+        "version": "bf54271e59aa6df4670631b40b7fc0666e8ac0978fae18f96ed99f37fb8b3936",
+        "signature": "bf54271e59aa6df4670631b40b7fc0666e8ac0978fae18f96ed99f37fb8b3936",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/nodemailer/lib/mime-node/index.d.ts": {
+        "version": "689b62c8e45e8f63dacf3a6de1655e06d524cf853f9a96f9446461553c49bd84",
+        "signature": "689b62c8e45e8f63dacf3a6de1655e06d524cf853f9a96f9446461553c49bd84",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/nodemailer/lib/smtp-connection/index.d.ts": {
+        "version": "559d3b5e23b28a26355233cd54b496701c6837fd9b539511158e44c028d7b8c5",
+        "signature": "559d3b5e23b28a26355233cd54b496701c6837fd9b539511158e44c028d7b8c5",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/nodemailer/lib/shared.d.ts": {
+        "version": "06fdb97fb4733b9ff5a24fc3bf9c0713c93231d361f27ea95ed05bfab679ac61",
+        "signature": "06fdb97fb4733b9ff5a24fc3bf9c0713c93231d361f27ea95ed05bfab679ac61",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/nodemailer/lib/json-transport.d.ts": {
+        "version": "f5af2c4bee48b94b4a247464406d600b5232036df7b835d16504f84303977474",
+        "signature": "f5af2c4bee48b94b4a247464406d600b5232036df7b835d16504f84303977474",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/nodemailer/lib/sendmail-transport/index.d.ts": {
+        "version": "2739f287a5d26386849a9e1fd05421ece3366ae533f7569654ab73cc74d30aae",
+        "signature": "2739f287a5d26386849a9e1fd05421ece3366ae533f7569654ab73cc74d30aae",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/nodemailer/lib/ses-transport.d.ts": {
+        "version": "dd335f22e01cf7abb3445c837e2a8a94650fc23b37572876581d36c2b8f96cb8",
+        "signature": "dd335f22e01cf7abb3445c837e2a8a94650fc23b37572876581d36c2b8f96cb8",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/nodemailer/lib/smtp-pool/index.d.ts": {
+        "version": "f44c29cd43b1b2ebcb49b51b3315c85d00fd5ed66b80a7c7a629ad27132bf213",
+        "signature": "f44c29cd43b1b2ebcb49b51b3315c85d00fd5ed66b80a7c7a629ad27132bf213",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/nodemailer/lib/smtp-transport.d.ts": {
+        "version": "b5a4a00d0d26d9ca9ce666ea46c2cf84f12139aa4e57b648d22c33362e25554a",
+        "signature": "b5a4a00d0d26d9ca9ce666ea46c2cf84f12139aa4e57b648d22c33362e25554a",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/nodemailer/lib/stream-transport.d.ts": {
+        "version": "d10c3e41c9d07022049b732e9b5e8d16a5e584393cfa589b299ac29630ab671a",
+        "signature": "d10c3e41c9d07022049b732e9b5e8d16a5e584393cfa589b299ac29630ab671a",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/nodemailer/index.d.ts": {
+        "version": "7c9ad24b7763a35bc2b94f495ee80a4f08f5d7f6fa677526c9931af90fdf6da5",
+        "signature": "7c9ad24b7763a35bc2b94f495ee80a4f08f5d7f6fa677526c9931af90fdf6da5",
+        "affectsGlobalScope": false
+      },
+      "./src/mailer/mailer.interface.ts": {
+        "version": "1187111eaa5ec389f26de2a92655eff1e52e5429ee30e183b76d9aa2cf0deaeb",
+        "signature": "57499bfa996f22ccf22ec1452bd47a7d4dce53500d84b1e869fc123fb9120f03",
+        "affectsGlobalScope": false
+      },
+      "./src/mailer/mailer.ts": {
+        "version": "f07c401b82e04868b6e92dcde6f0771aa7b5de6c7bc247f65910d0c09ebb9bb5",
+        "signature": "4d3493bb7a1f972c32a8ce3383d842519399b82432d383dd0a5fe1d96b288044",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/tz-offset/index.d.ts": {
+        "version": "28c13471fcff5beff8580d482986b392a3abfde5553b58e68bcdb05cb8bc7a20",
+        "signature": "28c13471fcff5beff8580d482986b392a3abfde5553b58e68bcdb05cb8bc7a20",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node-cron/index.d.ts": {
+        "version": "aee9a9311eec1fb55353a2093cfb43af79194705604107113930facf1f018e2b",
+        "signature": "aee9a9311eec1fb55353a2093cfb43af79194705604107113930facf1f018e2b",
+        "affectsGlobalScope": false
+      },
       "./node_modules/@types/minimatch/index.d.ts": {
         "version": "1d1e6bd176eee5970968423d7e215bfd66828b6db8d54d17afec05a831322633",
         "signature": "1d1e6bd176eee5970968423d7e215bfd66828b6db8d54d17afec05a831322633",
@@ -432,8 +512,8 @@
         "affectsGlobalScope": false
       },
       "./src/schedule/schedule.interface.ts": {
-        "version": "61190a482340cde121359bfc174d0481c8cbf5e6b620d2668cf2bf63fbb3d0fd",
-        "signature": "36ffedbb7d87d90a31501f19152e340efcfe98ba32f30e824ff53b90c2ef833d",
+        "version": "01cd8f7a99f40a36057ab448366f9e3ca3008de85d01f9a6eb1fd654629bca18",
+        "signature": "c993febc9350bf061efc1c99775688285c872e5b79de1a194f08c94902234974",
         "affectsGlobalScope": false
       },
       "./src/customcommand/customcommand.type.ts": {
@@ -3197,7 +3277,7 @@
         "affectsGlobalScope": false
       },
       "./src/customcommand/drive/drive.ts": {
-        "version": "731ab8071e3848c6be113a56bc473c9a54c72c3f1d8906474c6417adbdd04616",
+        "version": "0dae79ce01c0f0aa445daa089dcccea6f5049312389f228fc85dcfdf00119484",
         "signature": "5415107c3c143fe3f5333a5608b299e42d6ff86d9c3362e9ca653750ea93693f",
         "affectsGlobalScope": false
       },
@@ -3207,17 +3287,17 @@
         "affectsGlobalScope": false
       },
       "./src/command/command.ts": {
-        "version": "675ab2ea91c7294e7dc94abfdb44a20c93028345717e6f9cf5bad2804f82f498",
+        "version": "b44e397ff7844c19ec978b653d157b8cdcb50985609e3cbf6e0f3c1304381c4d",
         "signature": "48d54511f03d5f86d782f04521eb5b9a5877c2ae74452ff4ba9a8a949e34a678",
         "affectsGlobalScope": false
       },
       "./src/schedule/schedule.ts": {
-        "version": "efca309524cc84f0df5664e9762b30c61b0fa71fffd8061b7e96081cc130ee12",
+        "version": "07aaeea992dffd98fa0da9206d56b430b19b0b1533b2288dd3b067150fcc9382",
         "signature": "5680f8a8e636dadc23d695ffab61c8bc1d327964d332ba75257e79629b7b3760",
         "affectsGlobalScope": false
       },
       "./src/index.ts": {
-        "version": "dcdf8e31dffd9b337ccea799577a954d62023fc9a2a36ce685fc35e34fd0472e",
+        "version": "1a22874fe2489cc4a890976eb9b98abce2f2b3c935754f92bc2648b329ffc13d",
         "signature": "f761c91419d0a89422a0004ef1a92929dd4d2d5e5c16758654d8b0467d1998c6",
         "affectsGlobalScope": false
       }
@@ -3235,7 +3315,6 @@
       "esModuleInterop": true,
       "skipLibCheck": true,
       "forceConsistentCasingInFileNames": true,
-      "watch": true,
       "configFilePath": "./tsconfig.json"
     },
     "referencedMap": {
@@ -3422,6 +3501,126 @@
       ],
       "./node_modules/@types/node/zlib.d.ts": [
         "./node_modules/@types/node/stream.d.ts"
+      ],
+      "./node_modules/@types/nodemailer/index.d.ts": [
+        "./node_modules/@types/node/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/json-transport.d.ts",
+        "./node_modules/@types/nodemailer/lib/mailer/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/mailer/mail-message.d.ts",
+        "./node_modules/@types/nodemailer/lib/sendmail-transport/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/ses-transport.d.ts",
+        "./node_modules/@types/nodemailer/lib/smtp-pool/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/smtp-transport.d.ts",
+        "./node_modules/@types/nodemailer/lib/stream-transport.d.ts"
+      ],
+      "./node_modules/@types/nodemailer/lib/dkim/index.d.ts": [
+        "./node_modules/@types/node/index.d.ts",
+        "./node_modules/@types/node/stream.d.ts"
+      ],
+      "./node_modules/@types/nodemailer/lib/json-transport.d.ts": [
+        "./node_modules/@types/node/events.d.ts",
+        "./node_modules/@types/node/index.d.ts",
+        "./node_modules/@types/nodemailer/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/mailer/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/mailer/mail-message.d.ts",
+        "./node_modules/@types/nodemailer/lib/mime-node/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/shared.d.ts"
+      ],
+      "./node_modules/@types/nodemailer/lib/mailer/index.d.ts": [
+        "./node_modules/@types/node/events.d.ts",
+        "./node_modules/@types/node/index.d.ts",
+        "./node_modules/@types/node/net.d.ts",
+        "./node_modules/@types/node/stream.d.ts",
+        "./node_modules/@types/node/url.d.ts",
+        "./node_modules/@types/nodemailer/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/dkim/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/mailer/mail-message.d.ts",
+        "./node_modules/@types/nodemailer/lib/mime-node/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/shared.d.ts",
+        "./node_modules/@types/nodemailer/lib/smtp-connection/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/xoauth2.d.ts"
+      ],
+      "./node_modules/@types/nodemailer/lib/mailer/mail-message.d.ts": [
+        "./node_modules/@types/node/index.d.ts",
+        "./node_modules/@types/node/stream.d.ts",
+        "./node_modules/@types/nodemailer/lib/mailer/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/mime-node/index.d.ts"
+      ],
+      "./node_modules/@types/nodemailer/lib/mime-node/index.d.ts": [
+        "./node_modules/@types/node/index.d.ts",
+        "./node_modules/@types/node/stream.d.ts",
+        "./node_modules/@types/nodemailer/lib/mailer/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/smtp-connection/index.d.ts"
+      ],
+      "./node_modules/@types/nodemailer/lib/sendmail-transport/index.d.ts": [
+        "./node_modules/@types/node/index.d.ts",
+        "./node_modules/@types/nodemailer/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/mailer/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/mailer/mail-message.d.ts",
+        "./node_modules/@types/nodemailer/lib/mime-node/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/shared.d.ts"
+      ],
+      "./node_modules/@types/nodemailer/lib/ses-transport.d.ts": [
+        "./node_modules/@types/node/events.d.ts",
+        "./node_modules/@types/node/index.d.ts",
+        "./node_modules/@types/nodemailer/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/mailer/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/mailer/mail-message.d.ts",
+        "./node_modules/@types/nodemailer/lib/mime-node/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/shared.d.ts"
+      ],
+      "./node_modules/@types/nodemailer/lib/shared.d.ts": [
+        "./node_modules/@types/node/index.d.ts",
+        "./node_modules/@types/node/stream.d.ts",
+        "./node_modules/@types/nodemailer/lib/smtp-connection/index.d.ts"
+      ],
+      "./node_modules/@types/nodemailer/lib/smtp-connection/index.d.ts": [
+        "./node_modules/@types/node/events.d.ts",
+        "./node_modules/@types/node/index.d.ts",
+        "./node_modules/@types/node/net.d.ts",
+        "./node_modules/@types/node/stream.d.ts",
+        "./node_modules/@types/node/tls.d.ts",
+        "./node_modules/@types/nodemailer/lib/mime-node/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/shared.d.ts",
+        "./node_modules/@types/nodemailer/lib/xoauth2.d.ts"
+      ],
+      "./node_modules/@types/nodemailer/lib/smtp-pool/index.d.ts": [
+        "./node_modules/@types/node/events.d.ts",
+        "./node_modules/@types/node/index.d.ts",
+        "./node_modules/@types/nodemailer/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/mailer/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/mailer/mail-message.d.ts",
+        "./node_modules/@types/nodemailer/lib/mime-node/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/shared.d.ts",
+        "./node_modules/@types/nodemailer/lib/smtp-connection/index.d.ts"
+      ],
+      "./node_modules/@types/nodemailer/lib/smtp-transport.d.ts": [
+        "./node_modules/@types/node/events.d.ts",
+        "./node_modules/@types/node/index.d.ts",
+        "./node_modules/@types/node/stream.d.ts",
+        "./node_modules/@types/nodemailer/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/mailer/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/mailer/mail-message.d.ts",
+        "./node_modules/@types/nodemailer/lib/mime-node/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/shared.d.ts",
+        "./node_modules/@types/nodemailer/lib/smtp-connection/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/xoauth2.d.ts"
+      ],
+      "./node_modules/@types/nodemailer/lib/stream-transport.d.ts": [
+        "./node_modules/@types/node/events.d.ts",
+        "./node_modules/@types/node/index.d.ts",
+        "./node_modules/@types/node/stream.d.ts",
+        "./node_modules/@types/nodemailer/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/mailer/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/mailer/mail-message.d.ts",
+        "./node_modules/@types/nodemailer/lib/mime-node/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/shared.d.ts"
+      ],
+      "./node_modules/@types/nodemailer/lib/xoauth2.d.ts": [
+        "./node_modules/@types/node/http.d.ts",
+        "./node_modules/@types/node/index.d.ts",
+        "./node_modules/@types/node/stream.d.ts",
+        "./node_modules/@types/nodemailer/lib/shared.d.ts"
       ],
       "./node_modules/abort-controller/dist/abort-controller.d.ts": [
         "./node_modules/event-target-shim/index.d.ts"
@@ -6607,11 +6806,21 @@
         "./src/customcommand/drive/drive.ts"
       ],
       "./src/index.ts": [
+        "./src/mailer/mailer.ts",
         "./src/schedule/schedule.ts"
+      ],
+      "./src/mailer/mailer.interface.ts": [
+        "./node_modules/@types/nodemailer/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/smtp-transport.d.ts"
+      ],
+      "./src/mailer/mailer.ts": [
+        "./node_modules/@types/nodemailer/index.d.ts",
+        "./src/mailer/mailer.interface.ts"
       ],
       "./src/schedule/schedule.interface.ts": [
         "./src/customcommand/archiver/archiver.interface.ts",
-        "./src/customcommand/drive/drive.interface.ts"
+        "./src/customcommand/drive/drive.interface.ts",
+        "./src/mailer/mailer.ts"
       ],
       "./src/schedule/schedule.ts": [
         "./node_modules/@types/node-cron/index.d.ts",
@@ -6803,6 +7012,126 @@
       ],
       "./node_modules/@types/node/zlib.d.ts": [
         "./node_modules/@types/node/stream.d.ts"
+      ],
+      "./node_modules/@types/nodemailer/index.d.ts": [
+        "./node_modules/@types/node/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/json-transport.d.ts",
+        "./node_modules/@types/nodemailer/lib/mailer/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/mailer/mail-message.d.ts",
+        "./node_modules/@types/nodemailer/lib/sendmail-transport/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/ses-transport.d.ts",
+        "./node_modules/@types/nodemailer/lib/smtp-pool/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/smtp-transport.d.ts",
+        "./node_modules/@types/nodemailer/lib/stream-transport.d.ts"
+      ],
+      "./node_modules/@types/nodemailer/lib/dkim/index.d.ts": [
+        "./node_modules/@types/node/index.d.ts",
+        "./node_modules/@types/node/stream.d.ts"
+      ],
+      "./node_modules/@types/nodemailer/lib/json-transport.d.ts": [
+        "./node_modules/@types/node/events.d.ts",
+        "./node_modules/@types/node/index.d.ts",
+        "./node_modules/@types/nodemailer/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/mailer/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/mailer/mail-message.d.ts",
+        "./node_modules/@types/nodemailer/lib/mime-node/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/shared.d.ts"
+      ],
+      "./node_modules/@types/nodemailer/lib/mailer/index.d.ts": [
+        "./node_modules/@types/node/events.d.ts",
+        "./node_modules/@types/node/index.d.ts",
+        "./node_modules/@types/node/net.d.ts",
+        "./node_modules/@types/node/stream.d.ts",
+        "./node_modules/@types/node/url.d.ts",
+        "./node_modules/@types/nodemailer/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/dkim/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/mailer/mail-message.d.ts",
+        "./node_modules/@types/nodemailer/lib/mime-node/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/shared.d.ts",
+        "./node_modules/@types/nodemailer/lib/smtp-connection/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/xoauth2.d.ts"
+      ],
+      "./node_modules/@types/nodemailer/lib/mailer/mail-message.d.ts": [
+        "./node_modules/@types/node/index.d.ts",
+        "./node_modules/@types/node/stream.d.ts",
+        "./node_modules/@types/nodemailer/lib/mailer/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/mime-node/index.d.ts"
+      ],
+      "./node_modules/@types/nodemailer/lib/mime-node/index.d.ts": [
+        "./node_modules/@types/node/index.d.ts",
+        "./node_modules/@types/node/stream.d.ts",
+        "./node_modules/@types/nodemailer/lib/mailer/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/smtp-connection/index.d.ts"
+      ],
+      "./node_modules/@types/nodemailer/lib/sendmail-transport/index.d.ts": [
+        "./node_modules/@types/node/index.d.ts",
+        "./node_modules/@types/nodemailer/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/mailer/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/mailer/mail-message.d.ts",
+        "./node_modules/@types/nodemailer/lib/mime-node/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/shared.d.ts"
+      ],
+      "./node_modules/@types/nodemailer/lib/ses-transport.d.ts": [
+        "./node_modules/@types/node/events.d.ts",
+        "./node_modules/@types/node/index.d.ts",
+        "./node_modules/@types/nodemailer/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/mailer/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/mailer/mail-message.d.ts",
+        "./node_modules/@types/nodemailer/lib/mime-node/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/shared.d.ts"
+      ],
+      "./node_modules/@types/nodemailer/lib/shared.d.ts": [
+        "./node_modules/@types/node/index.d.ts",
+        "./node_modules/@types/node/stream.d.ts",
+        "./node_modules/@types/nodemailer/lib/smtp-connection/index.d.ts"
+      ],
+      "./node_modules/@types/nodemailer/lib/smtp-connection/index.d.ts": [
+        "./node_modules/@types/node/events.d.ts",
+        "./node_modules/@types/node/index.d.ts",
+        "./node_modules/@types/node/net.d.ts",
+        "./node_modules/@types/node/stream.d.ts",
+        "./node_modules/@types/node/tls.d.ts",
+        "./node_modules/@types/nodemailer/lib/mime-node/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/shared.d.ts",
+        "./node_modules/@types/nodemailer/lib/xoauth2.d.ts"
+      ],
+      "./node_modules/@types/nodemailer/lib/smtp-pool/index.d.ts": [
+        "./node_modules/@types/node/events.d.ts",
+        "./node_modules/@types/node/index.d.ts",
+        "./node_modules/@types/nodemailer/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/mailer/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/mailer/mail-message.d.ts",
+        "./node_modules/@types/nodemailer/lib/mime-node/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/shared.d.ts",
+        "./node_modules/@types/nodemailer/lib/smtp-connection/index.d.ts"
+      ],
+      "./node_modules/@types/nodemailer/lib/smtp-transport.d.ts": [
+        "./node_modules/@types/node/events.d.ts",
+        "./node_modules/@types/node/index.d.ts",
+        "./node_modules/@types/node/stream.d.ts",
+        "./node_modules/@types/nodemailer/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/mailer/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/mailer/mail-message.d.ts",
+        "./node_modules/@types/nodemailer/lib/mime-node/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/shared.d.ts",
+        "./node_modules/@types/nodemailer/lib/smtp-connection/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/xoauth2.d.ts"
+      ],
+      "./node_modules/@types/nodemailer/lib/stream-transport.d.ts": [
+        "./node_modules/@types/node/events.d.ts",
+        "./node_modules/@types/node/index.d.ts",
+        "./node_modules/@types/node/stream.d.ts",
+        "./node_modules/@types/nodemailer/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/mailer/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/mailer/mail-message.d.ts",
+        "./node_modules/@types/nodemailer/lib/mime-node/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/shared.d.ts"
+      ],
+      "./node_modules/@types/nodemailer/lib/xoauth2.d.ts": [
+        "./node_modules/@types/node/http.d.ts",
+        "./node_modules/@types/node/index.d.ts",
+        "./node_modules/@types/node/stream.d.ts",
+        "./node_modules/@types/nodemailer/lib/shared.d.ts"
       ],
       "./node_modules/abort-controller/dist/abort-controller.d.ts": [
         "./node_modules/event-target-shim/index.d.ts"
@@ -9973,15 +10302,56 @@
         "./src/customcommand/customcommand.type.ts",
         "./src/customcommand/drive/drive.interface.ts"
       ],
+      "./src/mailer/mailer.interface.ts": [
+        "./node_modules/@types/nodemailer/index.d.ts",
+        "./node_modules/@types/nodemailer/lib/smtp-transport.d.ts"
+      ],
+      "./src/mailer/mailer.ts": [
+        "./node_modules/@types/nodemailer/index.d.ts",
+        "./src/mailer/mailer.interface.ts"
+      ],
       "./src/schedule/schedule.interface.ts": [
         "./src/customcommand/archiver/archiver.interface.ts",
-        "./src/customcommand/drive/drive.interface.ts"
+        "./src/customcommand/drive/drive.interface.ts",
+        "./src/mailer/mailer.ts"
       ],
       "./src/schedule/schedule.ts": [
         "./src/schedule/schedule.interface.ts"
       ]
     },
     "semanticDiagnosticsPerFile": [
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.dom.d.ts",
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.dom.iterable.d.ts",
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2015.d.ts",
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2016.d.ts",
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2017.d.ts",
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2017.full.d.ts",
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2017.intl.d.ts",
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2017.object.d.ts",
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2017.string.d.ts",
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts",
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts",
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2018.d.ts",
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2018.intl.d.ts",
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2018.promise.d.ts",
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2018.regexp.d.ts",
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es2020.bigint.d.ts",
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.es5.d.ts",
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.esnext.intl.d.ts",
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.scripthost.d.ts",
+      "../../../appdata/local/yarn/data/global/node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
       "./node_modules/@types/archiver/index.d.ts",
       "./node_modules/@types/glob/index.d.ts",
       "./node_modules/@types/mime-types/index.d.ts",
@@ -10034,6 +10404,20 @@
       "./node_modules/@types/node/wasi.d.ts",
       "./node_modules/@types/node/worker_threads.d.ts",
       "./node_modules/@types/node/zlib.d.ts",
+      "./node_modules/@types/nodemailer/index.d.ts",
+      "./node_modules/@types/nodemailer/lib/dkim/index.d.ts",
+      "./node_modules/@types/nodemailer/lib/json-transport.d.ts",
+      "./node_modules/@types/nodemailer/lib/mailer/index.d.ts",
+      "./node_modules/@types/nodemailer/lib/mailer/mail-message.d.ts",
+      "./node_modules/@types/nodemailer/lib/mime-node/index.d.ts",
+      "./node_modules/@types/nodemailer/lib/sendmail-transport/index.d.ts",
+      "./node_modules/@types/nodemailer/lib/ses-transport.d.ts",
+      "./node_modules/@types/nodemailer/lib/shared.d.ts",
+      "./node_modules/@types/nodemailer/lib/smtp-connection/index.d.ts",
+      "./node_modules/@types/nodemailer/lib/smtp-pool/index.d.ts",
+      "./node_modules/@types/nodemailer/lib/smtp-transport.d.ts",
+      "./node_modules/@types/nodemailer/lib/stream-transport.d.ts",
+      "./node_modules/@types/nodemailer/lib/xoauth2.d.ts",
       "./node_modules/@types/tz-offset/index.d.ts",
       "./node_modules/abort-controller/dist/abort-controller.d.ts",
       "./node_modules/event-target-shim/index.d.ts",
@@ -10582,38 +10966,6 @@
       "./node_modules/googleapis/build/src/googleapis.d.ts",
       "./node_modules/googleapis/build/src/index.d.ts",
       "./node_modules/gtoken/build/src/index.d.ts",
-      "./node_modules/typescript/lib/lib.dom.d.ts",
-      "./node_modules/typescript/lib/lib.dom.iterable.d.ts",
-      "./node_modules/typescript/lib/lib.es2015.collection.d.ts",
-      "./node_modules/typescript/lib/lib.es2015.core.d.ts",
-      "./node_modules/typescript/lib/lib.es2015.d.ts",
-      "./node_modules/typescript/lib/lib.es2015.generator.d.ts",
-      "./node_modules/typescript/lib/lib.es2015.iterable.d.ts",
-      "./node_modules/typescript/lib/lib.es2015.promise.d.ts",
-      "./node_modules/typescript/lib/lib.es2015.proxy.d.ts",
-      "./node_modules/typescript/lib/lib.es2015.reflect.d.ts",
-      "./node_modules/typescript/lib/lib.es2015.symbol.d.ts",
-      "./node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
-      "./node_modules/typescript/lib/lib.es2016.array.include.d.ts",
-      "./node_modules/typescript/lib/lib.es2016.d.ts",
-      "./node_modules/typescript/lib/lib.es2017.d.ts",
-      "./node_modules/typescript/lib/lib.es2017.full.d.ts",
-      "./node_modules/typescript/lib/lib.es2017.intl.d.ts",
-      "./node_modules/typescript/lib/lib.es2017.object.d.ts",
-      "./node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
-      "./node_modules/typescript/lib/lib.es2017.string.d.ts",
-      "./node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
-      "./node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts",
-      "./node_modules/typescript/lib/lib.es2018.asynciterable.d.ts",
-      "./node_modules/typescript/lib/lib.es2018.d.ts",
-      "./node_modules/typescript/lib/lib.es2018.intl.d.ts",
-      "./node_modules/typescript/lib/lib.es2018.promise.d.ts",
-      "./node_modules/typescript/lib/lib.es2018.regexp.d.ts",
-      "./node_modules/typescript/lib/lib.es2020.bigint.d.ts",
-      "./node_modules/typescript/lib/lib.es5.d.ts",
-      "./node_modules/typescript/lib/lib.esnext.intl.d.ts",
-      "./node_modules/typescript/lib/lib.scripthost.d.ts",
-      "./node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
       "./src/command/command.ts",
       "./src/customcommand/archiver/archiver.interface.ts",
       "./src/customcommand/archiver/archiver.ts",
@@ -10624,6 +10976,8 @@
       "./src/customcommand/drive/drive.ts",
       "./src/customcommand/index.ts",
       "./src/index.ts",
+      "./src/mailer/mailer.interface.ts",
+      "./src/mailer/mailer.ts",
       "./src/schedule/schedule.interface.ts",
       "./src/schedule/schedule.ts"
     ]
