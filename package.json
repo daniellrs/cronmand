@@ -1,6 +1,6 @@
 {
   "name": "schedule-command",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "main": "dist/index.js",
   "license": "MIT",
   "author": "daniellrs",
