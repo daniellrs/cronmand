@@ -3,11 +3,11 @@ import path from 'path'
 import readline from 'readline'
 import mime from 'mime-types'
 import { google } from 'googleapis'
-import { Command } from '../CustomCommand.interface'
-import { Param } from '../CustomCommand.type'
+import { CustomCommand } from '../CommandManager.interface'
+import { Param } from '../CommandManager.type'
 import { DriveOptions } from './Drive.interface'
 
-export default class Drive implements Command {
+export default class Drive implements CustomCommand {
   name = 'drive'
 
   exec(param: Param, options: DriveOptions): Promise<void> {

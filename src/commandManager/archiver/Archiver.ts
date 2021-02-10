@@ -1,10 +1,10 @@
 import fs from 'fs'
 import archiver from 'archiver'
-import { Command } from '../CustomCommand.interface'
-import { Param } from '../CustomCommand.type'
+import { CustomCommand } from '../CommandManager.interface'
+import { Param } from '../CommandManager.type'
 import { ArchiverOptions } from './Archiver.interface'
 
-export default class Archiver implements Command {
+export default class Archiver implements CustomCommand {
   name = 'archiver'
 
   exec(param: Param, options: ArchiverOptions): Promise<void> {

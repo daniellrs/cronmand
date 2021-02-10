@@ -1,31 +1,17 @@
-import Mailer from './mailer/Mailer'
-import Schedule from './schedule/Schedule'
-import * as env from './env'
+export { default as Command } from './command/Command'
 
-const mailer = new Mailer({
-  transport: {
-    service: 'gmail',
-    auth: {
-      user: env.mailer.from,
-      pass: env.mailer.password,
-    },
-  },
-  defaultMailOptions: {
-    from: env.mailer.from,
-    to: env.mailer.to,
-  },
-})
+export { default as CommandManager } from './commandManager/CommandManager'
+export * from './commandManager/CommandManager.interface'
+export * from './commandManager/CommandManager.type'
 
-new Schedule(
-  '* * * * *',
-  [
-    'scm archiver -d ./dist:dist',
-    'scm drive -f output.zip -d backup',
-    'del output.zip',
-    'echo backup done!',
-  ],
-  {
-    mailer,
-    sendMailOnFinish: true,
-  }
-)
+export { default as Archiver } from './commandManager/archiver/Archiver'
+export * from './commandManager/archiver/Archiver.interface'
+
+export { default as Drive } from './commandManager/drive/Drive'
+export * from './commandManager/drive/Drive.interface'
+
+export { default as Mailer } from './mailer/Mailer'
+export * from './mailer/Mailer.interface'
+
+export { default as Schedule } from './schedule/Schedule'
+export * from './schedule/Schedule.interface'

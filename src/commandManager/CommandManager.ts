@@ -1,11 +1,11 @@
 import { Options } from '../schedule/Schedule.interface'
-import { Command, Commands } from './CustomCommand.interface'
+import { CustomCommand, CustomCommands } from './CommandManager.interface'
 
-export default class CustomCommand {
+export default class CommandManager {
   static CUSTOM_COMMAND_NAME = 'scm'
-  private static commands: Commands = {}
+  private static commands: CustomCommands = {}
 
-  static add(command: Command) {
+  static add(command: CustomCommand) {
     if (this.commands[command.name])
       throw new Error(`Custom command with name "${command.name}" already exists.`)
 
