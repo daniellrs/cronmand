@@ -1,13 +1,14 @@
 {
   "name": "schedule-command",
-  "version": "1.0.1",
+  "version": "1.0.8",
   "main": "dist/index.js",
   "license": "MIT",
   "author": "daniellrs",
   "scripts": {
     "start": "node dist/index.js",
     "dev": "nodemon",
-    "watch": "tsc --watch"
+    "watch": "tsc --watch",
+    "pub": "tsc && yarn publish"
   },
   "devDependencies": {
     "@types/archiver": "^5.1.0",
@@ -25,10 +26,6 @@
     "nodemailer": "^6.4.17"
   },
   "files": [
-    "dist",
-    "package.json"
-  ],
-  "exports": {
-    "./": "./dist"
-  }
+    "dist"
+  ]
 }
