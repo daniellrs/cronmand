@@ -6,7 +6,7 @@
   "author": "daniellrs",
   "scripts": {
     "start": "node dist/index.js",
-    "dev": "nodemon",
+    "dev": "cd ./examples && nodemon",
     "watch": "tsc --watch",
     "pub": "tsc && yarn publish"
   },
