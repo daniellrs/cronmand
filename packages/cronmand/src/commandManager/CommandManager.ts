@@ -2,7 +2,8 @@ import { Options } from '../schedule/Schedule.interface'
 import { CustomCommand, CustomCommands } from './CommandManager.interface'
 
 export default class CommandManager {
-  static CUSTOM_COMMAND_NAME = 'scm'
+  static CUSTOM_COMMAND_NAME = 'cm'
+
   private static commands: CustomCommands = {}
 
   static add(command: CustomCommand) {
@@ -20,7 +21,11 @@ export default class CommandManager {
     if (!this.commands[commandName])
       throw new Error(`Custom command with name "${commandName}" doesn't exist.`)
 
-    await this.commands[commandName](this.params(args), options.commands?.[commandName] || {})
+    await this.commands[commandName](
+      this.params(args),
+      options.commands?.[commandName] || {},
+      options
+    )
   }
 
   static params(args: string[]) {

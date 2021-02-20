@@ -5,8 +5,6 @@
   "license": "MIT",
   "author": "daniellrs",
   "scripts": {
-    "start": "node dist/index.js",
-    "dev": "cd ./examples && nodemon",
     "build": "tsc",
     "watch": "tsc --watch",
     "pub": "tsc && yarn publish"

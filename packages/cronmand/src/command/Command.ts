@@ -1,7 +1,6 @@
 import { exec } from 'child_process'
 import CommandManager from '../commandManager/CommandManager'
 import { Options } from '../schedule/Schedule.interface'
-import '../commandManager/CommandManager.loader'
 
 export default class Command {
   static exec(command: string, options: Options): Promise<void> {
