@@ -1,7 +1,6 @@
 import fs from 'fs'
 import archiver from 'archiver'
-import { CustomCommand } from '../CommandManager.interface'
-import { Param } from '../CommandManager.type'
+import { CustomCommand, Param } from '@cronmand/core'
 import { ArchiverOptions } from './Archiver.interface'
 
 export default class Archiver implements CustomCommand {
