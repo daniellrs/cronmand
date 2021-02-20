@@ -18,7 +18,7 @@ export default class Schedule {
           }
         }
       } finally {
-        if (options.sendMailOnFinish) options.mailer?.sendMail({ text: JSON.stringify(resume) })
+        // if (options.sendMailOnFinish) options.mailer?.sendMail({ text: JSON.stringify(resume) })
       }
     })
   }

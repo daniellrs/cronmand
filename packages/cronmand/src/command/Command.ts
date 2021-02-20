@@ -15,7 +15,7 @@ export default class Command {
           .catch(reject)
       }
 
-      exec(command, (error, stdout, stderr) => {
+      exec(command, error => {
         if (error) {
           reject(error)
           throw error
