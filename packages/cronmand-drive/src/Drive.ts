@@ -3,8 +3,7 @@ import path from 'path'
 import readline from 'readline'
 import mime from 'mime-types'
 import { google } from 'googleapis'
-import { CustomCommand } from '../CommandManager.interface'
-import { Param } from '../CommandManager.type'
+import { CustomCommand, Param } from '@cronmand/core'
 import { DriveOptions } from './Drive.interface'
 
 export default class Drive implements CustomCommand {

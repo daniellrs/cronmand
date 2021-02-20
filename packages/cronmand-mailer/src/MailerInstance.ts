@@ -1,7 +1,7 @@
 import * as nodemailer from 'nodemailer'
 import { MailerConstructor } from './Mailer.interface'
 
-export default class Mailer {
+export default class MailerInstance {
   private transporter: nodemailer.Transporter
   private defaultMailOptions: nodemailer.SendMailOptions | undefined
 
@@ -14,7 +14,7 @@ export default class Mailer {
     return new Promise((resolve, reject) => {
       if (!mailOptions && !this.defaultMailOptions) {
         reject()
-        throw new Error('You should provide mailOptions or defaultMailOptions to send and e-mail')
+        throw new Error('You should provide mailOptions or defaultMailOptions to send and e-mail.')
       }
 
       mailOptions = { ...this.defaultMailOptions, ...mailOptions }
